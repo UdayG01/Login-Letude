@@ -23,7 +23,3 @@
 | <img src="./images/Signup%20SS%20(pc).PNG" width="400"> | <img src="./images/Signup%20SS%20(mobile).jpg" width="200"> |
 | :--------------------------------------------  | -----------------------------------------------:   |
 | <img src="./images/Login%20SS%20(pc).PNG" width="400">  | <img src="./images/Login%20SS%20(mobile).jpg" width="200">  |
-
-
-## :octocat: Github Pages Link
-- [udayg01.github.io](https://udayg01.github.io/)
